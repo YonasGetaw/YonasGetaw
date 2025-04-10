@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Student [TechTonicTribe](t.me/TechTonicTribe)
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **html,css ,js ,sql,Java and Python**
 
 - 👯 I’m looking to collaborate on [TechTonicTribe](t.me/TechTonicTribe)
 
