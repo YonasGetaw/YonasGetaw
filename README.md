@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [http://repel.it/](http://repel.it/)
 
-- 💬 ASK ABOUT ME **C++,PYTHON AND SQL**
+- 💬 ASK ABOUT ME **C++,PYTHON,java,html,css,javascript AND SQL**
 
 - 📫 How to reach me **yonasgetaw5444@gmail.com**
 
