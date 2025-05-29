@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/Mc6K1Bg.png" alt="banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#fca311;">Yonas Getaw</span></h1>
 <h3 align="center">💻 Full-Stack Developer | 🎓 Software Engineering Student | 🇪🇹 Based in Ethiopia</h3>
