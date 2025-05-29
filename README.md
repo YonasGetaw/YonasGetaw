@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/tech-banner.gif" alt="Tech Banner" width="100%"/>
+<!--   <img src="https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/tech-banner.gif" alt="Tech Banner" width="100%"/> -->
   
   <h1 align="center"> 
     <a href="https://git.io/typing-svg">
