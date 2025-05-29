@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-
+<p align="center">
+  <img src="https://i.imgur.com/Mc6K1Bg.png" alt="Yonas Getaw Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#fca311;">Yonas Getaw</span></h1>
 <h3 align="center">💻 Full-Stack Developer | 🎓 Software Engineering Student | 🇪🇹 Based in Ethiopia</h3>
@@ -10,30 +12,20 @@
 
 🎯 I'm a passionate full-stack developer from Ethiopia, focused on building impactful digital solutions.  
 💼 Currently working on exciting projects like **TechTonicTribe** and city-wide systems like **Bajaj Management**.  
-🛠️ I’ve given my time and skills to empower local communities through code.  
-🗣️ Fluent in **C++, Java, Python, HTML, CSS, JavaScript, SQL**.
+🛠️ I’ve contributed my skills to empower local communities through code.  
+🗣️ Proficient in **C++, Java, Python, HTML, CSS, JavaScript, SQL**.
 
 ---
 
-## 🔥 What I Bring to the Table
+## 🚀 Currently Building
 
-- ✅ Clean, maintainable code
-- 🖼️ User-friendly UI/UX designs
-- 🔐 Security-first backend development
-- 🚀 Agile & collaborative teamwork
-- 🤝 Giving back to the community
+- 🌐 [**TechTonicTribe**](https://t.me/TechTonicTribe): A tech community for Ethiopian youth.
+- 🛺 **Debre Birhan Bajaj Management System**: Modernizing city transportation.
+- 🎮 **Ethiopis**: Educational games and animations for children's learning.
 
 ---
 
-## 🚀 Currently Working On
-
-- 🌐 [**TechTonicTribe**](https://t.me/TechTonicTribe) — Tech community for Ethiopian youth
-- 🛺 **Debre Birhan Bajaj Management System** — Modernizing city transportation
-- 🎮 Fun educational games and animations for kids' learning website (**Ethiopis**)
-
----
-
-## 🧰 Languages & Tools
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,bootstrap,mysql,git,vscode" />
@@ -69,7 +61,7 @@
 
 ---
 
-## 🌱 I’m Currently Learning
+## 🌱 Learning & Growth
 
 - 🔷 JavaFX UI frameworks  
 - 🟩 Spring Boot APIs  
@@ -78,13 +70,13 @@
 
 ---
 
-## 📝 I Write Articles On
+## 📝 Articles & Blogs
 
 📖 [http://repel.it](http://repel.it)
 
 ---
 
-## 📬 Contact Me
+## 📬 Connect with Me
 
 <p align="center">
   <a href="mailto:yonasgetaw5444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -97,12 +89,12 @@
 ## 🎉 Fun Zone
 
 > **Fun Fact**: I think I'm funny 😄  
-> 🧩 I love solving logical puzzles and creating animated games for kids!  
+> 🧩 I enjoy solving logical puzzles and creating animated games for kids!  
 > 🌈 My dream is to build Ethiopia’s #1 educational platform for children.
 
 ---
 
-## 🙌 Let’s Build the Future Together!
+## 🙌 Let's Build the Future Together!
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
