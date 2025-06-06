@@ -137,7 +137,4 @@ express
 
 </div>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/YonasGetaw/YonasGetaw/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
+
