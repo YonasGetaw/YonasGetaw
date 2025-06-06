@@ -120,7 +120,7 @@ express
 [![Email](https://img.shields.io/badge/Email-yonasgetaw5444%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yonasgetaw5444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-YonasGetaw-181717?style=for-the-badge&logo=github)](https://github.com/YonasGetaw)
 [![Telegram](https://img.shields.io/badge/Telegram-%40yonaa54-blue?style=for-the-badge&logo=telegram)](https://t.me/yonaa54)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonas%20Getaw-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/yonas-getaw-1aa157360/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonas%20Getaw-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yonas-getaw-1aa157360)
 
 </div>
 
