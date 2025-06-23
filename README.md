@@ -20,7 +20,7 @@
   <tr>
     <td width="60%">
       <p>✨ Second-year Software Engineering student at Debre Berhan University</p>
-      <p>🚀 Founder of <b>TechTonicTribe</b> - a tech community fostering innovation</p>
+      <p>🚀 Member of <b>TechTonicTribe</b> - a tech community fostering innovation</p>
       <p>🌍 Passionate about using technology to solve local challenges in Ethiopia</p>
       <p>🔭 Currently building civic tech solutions like the Debre Birhan Bajaj Management System</p>
       <p>📝 I write about tech and community building on <a href="http://repel.it">Repel.it</a></p>
