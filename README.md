@@ -40,8 +40,8 @@
   
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[TechTonicTribe](https://t.me/TechTonicTribe)** | Community learning platform for Ethiopian developers | python,html,css and react | 🟢 Live |
-| **[Bajaj Management System](https://github.com/YonasGetaw/Bajaj-Management-System)** | Digital solution for Debre Birhan's transportation system | html,css ,js and node js with PostgreSQL | 🟡 Beta |
+| **[TechTonicTribe Telegram chanal](https://t.me/TechTonicTribe)** | Community learning platform for Ethiopian developers | python,html,css and react | 🟢 Live |
+| **[Transportation and booking system](transportbookingsytsem.netlify.app)** | Digital solution for Debre Birhan's transportation system | html,css ,js and node js with PostgreSQL | 🟡 Beta |
 | **[Ethiopis](https://github.com/YonasGetaw/Ethiopis)** | Educational games for Ethiopian children | JavaScript, html,css| 🔴 Prototype |
 
 </div>
