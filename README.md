@@ -16,8 +16,6 @@
 - 🌐 Actively building:
   - 🧒 **Ethiopis** – A multilingual **kids’ learning platform**
   - 🛺 **Bajaj Transport System** – Managing 4000+ Bajaj vehicles for Debre Birhan City
-- 📚 Learning Focus: **Java OOP**, **React**, **Node.js**, **DSA**, **COA**
-
 ---
 
 ### ⚙️ Skills & Tools
@@ -74,13 +72,6 @@
 
 ---
 
-### 🎯 2025 Goals
-
-- 🚀 Deploy **Ethiopis** to help Ethiopian kids learn with joy  
-- 🛠️ Complete the **Debre Birhan Bajaj System** with full features  
-- 📘 Master **React + Node.js** with professional backend skills  
-- 🧠 Improve **DSA**, **Problem Solving**, and **Architecture**  
-- 💼 Contribute to **open source** or team projects
 
 ---
 
