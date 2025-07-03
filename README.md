@@ -1,140 +1,76 @@
-<!-- Hero Section -->
-<div align="center">
-<!--   <img src="https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/tech-banner.gif" alt="Tech Banner" width="100%"/> -->
-  
-  <h1 align="center"> 
-    <a href="https://git.io/typing-svg">
-<!--       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Yonas+Getaw;Full-Stack+Developer;Creative+Technologist;Community+Builder;Problem+Solver" alt="Typing SVG" /> -->
-    </a>
-  </h1>
-  
-  <h3 align="center">Building meaningful solutions through clean code & bold ideas</h3>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<!-- GitHub README for Yonas Getaw -->
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+<h1 align="center">Hi 👋, I'm Yonas Getaw</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Web Developer | Java & React Enthusiast</h3>
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>✨ Second-year Software Engineering student at Debre Berhan University</p>
-      <p>🚀 Member of <b>TechTonicTribe</b> - a tech community fostering innovation</p>
-      <p>🌍 Passionate about using technology to solve local challenges in Ethiopia</p>
-      <p>🔭 Currently building civic tech solutions like the Debre Birhan Bajaj Management System</p>
-      <p>📝 I write about tech and community building on <a href="http://repel.it">Repel.it</a></p>
-    </td>
-    <td width="40%">
-      <img src="https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/coding-illustration.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yonasgetaw&label=Profile%20views&color=0e75b6&style=flat" alt="yonasgetaw" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<!-- Current Projects -->
-## 🚀 Current Projects
+### 🔍 About Me
 
-<div align="center">
-  
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[TechTonicTribe Telegram chanal](https://t.me/TechTonicTribe)** | Community learning platform for Ethiopian developers | python,html,css and react | 🟢 Live |
-| **[Transportation and booking system](http://transportbookingsytsem.netlify.app)** | Digital solution for Debre Birhan's transportation system | html,css ,js and node js with PostgreSQL | 🟡 Beta |
-| **[Ethiopis](https://github.com/YonasGetaw/Ethiopis)** | Educational games for Ethiopian children | JavaScript, html,css| 🔴 Prototype |
+- 🎓 I’m a **2nd-year Software Engineering student** at **Debre Berhan University**, Ethiopia  
+- 💡 I love building **real-world software**, especially for **education, transport, and kids' learning**
+- 🌍 I’m currently working on a **multi-language Kids' Learning Platform** called "**Ethiopis**"  
+- 🚕 I'm also developing a full-stack "**Debre Birhan Bajaj Management System**" for over 4000 vehicles  
+- 🌱 I’m currently learning **Java, React, Node.js, DBMS, DSA, and COA**
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### 🛠️ Technologies & Tools
 
-<!-- Tech Stack -->
-## 🛠 Tech Stack
+**Languages:**  
+`Java` `JavaScript` `C++` `Python` `HTML` `CSS` `SQL`
 
-<div align="center">
-  
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Frameworks & Libraries:**  
+`React.js` `Node.js` `Express.js` `Bootstrap` `Java Swing`
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Tools:**  
+`VS Code` `Git & GitHub` `Figma` `Postman` `MySQL`
 
-### Backend Development
-node.js and
-express
+---
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 Projects
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Ethiopis - Kids Learning Website** | Animated, multilingual platform with games, videos, and stories for Ethiopian children (Ages 4–12) | React, HTML, CSS, Amharic/English voiceover |
+| **Debre Birhan Bajaj Management System** | Manages 4000+ vehicles across 97 routes with admin panel, booking, route tracking | Node.js, Express.js, MongoDB, Admin UI |
+| **Student Registration System** | Java Swing form UI with modern design, full validation (no DB) | Java (OOP, Encapsulation) |
+| **Library & Employee Management** | Console-based systems using Java OOP | Java |
+| **Memory-Enhanced Bucket Bubble Sort** | Optimized sorting algorithm | Java, Python, C++ |
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### 📈 GitHub Stats
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yonasgetaw&show_icons=true&theme=tokyonight" alt="yonasgetaw stats" />
+</p>
 
-<div align="center">
-  
-| ![Yonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonasgetaw&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonasgetaw&layout=compact&theme=radical) |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yonasgetaw&theme=radical)
+### 📫 Contact Me
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yonasgetaw&theme=radical&margin-w=15&margin-h=15&row=1&column=6)
+- 📧 Email: [yonasgetaw5444@gmail.com](mailto:yonasgetaw5444@gmail.com)  
+- 📱 Phone: +251 954 447749  
+- 🔗 GitHub: [github.com/YonasGetaw](https://github.com/YonasGetaw)  
+- 🌍 Location: Debre Birhan, Ethiopia  
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### 🌟 Goals for 2025
 
-<!-- Blog Posts -->
-## 📝 Latest Articles
+- ✅ Build a complete **kids’ e-learning system**
+- ✅ Launch the **Bajaj Transport Platform**
+- 🔄 Master **React + Node.js Full Stack**
+- 🔄 Become strong in **Algorithms & Math**
+- ✅ Improve **UI/UX** design for kids and general audiences
 
-<div align="center">
-  
-| Title | Summary | Link |
-|-------|---------|------|
-| **Building Community Tech Hubs** | How TechTonicTribe is fostering local talent | [Read on Repel.it](http://repel.it/community-tech) |
-| **Digitizing Public Transport** | Case study of the Bajaj Management System | [Read on Repel.it](http://repel.it/bajaj-system) |
-| **From Student to Developer** | My coding journey in Ethiopia's tech scene | [Read on Repel.it](http://repel.it/my-journey) |
+---
 
-</div>
+<p align="center">“Code is a journey — make it colorful, meaningful, and full of purpose.” 🌈</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- Contact -->
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-yonasgetaw5444%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yonasgetaw5444@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YonasGetaw-181717?style=for-the-badge&logo=github)](https://github.com/YonasGetaw)
-[![Telegram](https://img.shields.io/badge/Telegram-%40yonaa54-blue?style=for-the-badge&logo=telegram)](https://t.me/yonaa54)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonas%20Getaw-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yonas-getaw-1aa157360)
-
-</div>
-
-<!-- Fun Zone -->
-## 😄 Fun Facts About Me
-
-<div align="center">
-  
-- I once debugged code for 12 hours straight - then realized I forgot to save my file 😅
-- My first "computer" was a Nokia feature phone where I learned BASIC
-- I believe Ethiopian coffee makes me code 3x faster ☕
-  
-![Coding Meme](https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/dev-meme.gif)
-
-</div>
-
-
+---
