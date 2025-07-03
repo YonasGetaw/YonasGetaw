@@ -1,7 +1,7 @@
 <!-- GitHub README for Yonas Getaw -->
 
 <h1 align="center">👋 Hi, I'm Yonas Getaw</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Web Developer | Java & React Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Web Developer | JavaScript & React Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yonasgetaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
