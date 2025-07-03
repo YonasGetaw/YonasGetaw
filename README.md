@@ -1,7 +1,7 @@
 <!-- GitHub README for Yonas Getaw -->
 
 <h1 align="center">👋 Hi, I'm Yonas Getaw</h1>
-<h3 align="center">🚀 Software Engineering Student | Full-Stack Web Developer | Java & React Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Web Developer | Java & React Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yonasgetaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -31,6 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40"/>
@@ -47,10 +48,10 @@
 | 🔧 Project | 📝 Description | 🧰 Stack |
 |-----------|----------------|----------|
 | 🎨 **Ethiopis** | Kids learning site with Amharic/English content, animations, and voice | `React`, `CSS`, `JS`, `Voiceover` |
-| 🛺 **Bajaj Transport System** | Digitizes Bajaj vehicle booking & tracking across 97 routes | `Node.js`, `Express`, `HTML/CSS` |
+| 🛺 **Bajaj Transport System** | Digitizes Bajaj vehicle booking & tracking across 97 routes | `Node.js`, `Express`, `HTML/CSS`, `PostgreSQL` |
 | 🧾 **Java Form UI** | Student registration with validation, Java Swing UI, no DB | `Java`, `Swing`, `Encapsulation` |
 | 📚 **Management Systems** | Library and employee systems using OOP | `Java Console Apps` |
-| ⚡ **Smart Sorter** | Bucket Bubble Sort with memory-enhanced logic | `Java`, `C++`, `Python` |
+| ⚡ **Smart Sorter** | Bucket Bubble Sort with memory-enhanced logic | `Java`, `Python`, `C++` |
 
 ---
 
@@ -76,7 +77,7 @@
 ### 🎯 2025 Goals
 
 - 🚀 Deploy **Ethiopis** to help Ethiopian kids learn with joy  
-- 🛠️ Complete the **Debre Birhan Bajaj System** for real use  
+- 🛠️ Complete the **Debre Birhan Bajaj System** with full features  
 - 📘 Master **React + Node.js** with professional backend skills  
 - 🧠 Improve **DSA**, **Problem Solving**, and **Architecture**  
 - 💼 Contribute to **open source** or team projects
@@ -84,5 +85,3 @@
 ---
 
 <p align="center"><b>“Building Ethiopia’s digital future — one project at a time.” 🇪🇹</b></p>
-
----
