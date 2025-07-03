@@ -79,7 +79,7 @@
 
 - 📧 **Email:** [yonasgetaw5444@gmail.com](mailto:yonasgetaw5444@gmail.com)  
 - 📱 **Phone:** +251 954 447749  
-- 🌍 **Location:** Debre Birhan, Ethiopia  
+- 🌍 **Location:** Addis Ababa, Ethiopia  
 - 🔗 **GitHub:** [github.com/YonasGetaw](https://github.com/YonasGetaw)
 
 ---
