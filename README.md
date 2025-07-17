@@ -1,9 +1,6 @@
 <!-- GitHub README for Yonas Getaw -->
-![Yonas Getaw](https://github.com/YonasGetaw.png)
-
 ### **Yonas Getaw**
 [GitHub.com/YonasGetaw](https://github.com/YonasGetaw)
-
 <div align="left">
   
 <img src="https://img.shields.io/badge/Followers-120-blue?style=for-the-badge&logo=github" />
