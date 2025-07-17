@@ -51,7 +51,7 @@
 ---
 ## 📬 Contact Me
 
-<p align="left">
+<p align="cenyter">
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="100" />
   </a>
