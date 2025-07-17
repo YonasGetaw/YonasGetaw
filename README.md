@@ -47,34 +47,39 @@
 <p align="left">
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="mailto:yourmail@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="100" />
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="100" />
   </a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://t.me/yourchannel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="100" />
   </a>
-  <br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="70" />
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="70" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Upwork" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="100" />
   </a>
   <br>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="100" />
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Upwork" width="100" />
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://x.com/yourhandle" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter/X" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter/X" width="100" />
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="100" />
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="70" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="100" />
   </a>
 </p>
