@@ -9,7 +9,7 @@ I’m a professional in **JavaScript** and **React**.
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd-year **Software Engineering student** at **Debre Berhan University**, Ethiopia  
+- 🎓 3rd-year **Software Engineering student** at **Debre Berhan University**, Ethiopia  
 - 🔬 Special interest in **real-world systems** for **Education**, **Transportation**, and **Youth Learning**
 - 🌐 Actively building:
   - 🧒 **Ethiopis** – A multilingual **kids’ learning platform**
