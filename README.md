@@ -52,8 +52,12 @@
 > This project is maintained with ❤️ by the team at [Your Company Name](https://yourcompany.com).  
 > If you have any questions, feedback, or would like to work with us — we’d love to hear from you.
 
----### 🧠Countact Me
+## 📬 Contact Me
+
 <p align="center">
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+  </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" />
   </a>
@@ -68,5 +72,14 @@
   </a>
   <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Upwork" width="40" />
+  </a>
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter/X" width="40" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="40" />
+  </a>
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" />
   </a>
 </p>
