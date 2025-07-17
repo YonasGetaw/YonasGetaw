@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/profile-card.png" width="250" alt="Yonas Getaw Profile Card"/>
-</p>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0368a75-6b25-421c-9650-badfd1bcdc0c" />
+
 
 <h2 align="center">Yonas Getaw</h2>
 
