@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0368a75-6b25-421c-9650-badfd1bcdc0c" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/c0368a75-6b25-421c-9650-badfd1bcdc0c" />
 
 
 <h2 align="center">Yonas Getaw</h2>
