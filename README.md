@@ -45,13 +45,15 @@
 ## 📬 Contact Me
 
 <p align="left">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="70" />
   </a>
-  &nbsp
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://facebook.com/yourprofile" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="70" />
   </a>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://t.me/yourchannel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="70" />
   </a>
