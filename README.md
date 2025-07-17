@@ -52,62 +52,21 @@
 > This project is maintained with ❤️ by the team at [Your Company Name](https://yourcompany.com).  
 > If you have any questions, feedback, or would like to work with us — we’d love to hear from you.
 
----
-
-### 🧠 Built With
-
-This module was built using modern technologies and follows best practices:
-
-- **Frontend:** React.js / Next.js / Vue.js
-- **Backend:** Node.js / Express / Laravel / Django
-- **API Integration:** REST / GraphQL
-- **UI Framework:** Tailwind CSS / Bootstrap 5 / Material UI
-- **Deployment:** Vercel / Netlify / Heroku / Docker
-
----
-
-### 📥 Contact Information
-
-| Type          | Details                                |
-|---------------|----------------------------------------|
-| 📧 Email       | [contact@yourcompany.com](mailto:contact@yourcompany.com) |
-| 🌐 Website     | [www.yourcompany.com](https://www.yourcompany.com)         |
-| 🐙 GitHub      | [github.com/yourorg](https://github.com/yourorg)           |
-| 📱 Telegram    | [t.me/yourgroup](https://t.me/yourgroup)                   |
-| 📍 Address     | Debre Birhan, Ethiopia                |
-
----
-
-### 📌 How to Reach Us
-
-- **Bug Reports:** Please open an issue on our [GitHub Issues](https://github.com/yourorg/yourrepo/issues) page.
-- **Feature Requests:** Create a discussion or contact us directly.
-- **Business Inquiries:** Use the contact email for project collaborations, consulting, or software development services.
-- **Urgent Support:** Mention “🚨 URGENT” in your subject line when emailing.
-
----
-
-### 🛠️ Contribution Support
-
-If you're contributing and need clarification:
-
-1. Clone the repo
-2. Run the `contact` module locally
-3. Send a test message to check email/Telegram integration
-4. Submit your PR or ask your question via [GitHub Discussions](https://github.com/yourorg/yourrepo/discussions)
-
----
-
-### 🔐 Privacy Notice
-
-We respect your privacy. All contact messages are processed securely and used strictly for communication purposes. See our [Privacy Policy](https://yourcompany.com/privacy) for more details.
-
----
-
-### 👋 Stay Connected
-
-Follow us on [LinkedIn](https://linkedin.com/company/yourcompany), [Twitter](https://twitter.com/yourcompany), or [Facebook](https://facebook.com/yourcompany) for the latest updates.
-
----
-
-© 2025 [Your Company Name]. All rights reserved.
+---### 🧠Countact Me
+<p align="center">
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" />
+  </a>
+  <a href="https://t.me/yourchannel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Upwork" width="40" />
+  </a>
+</p>
