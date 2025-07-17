@@ -1,7 +1,17 @@
 <!-- GitHub README for Yonas Getaw -->
+![Yonas Getaw](https://github.com/YonasGetaw.png)
 
-<h1 align="center">👋 Hi, I'm Yonas Getaw</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Web Developer | JavaScript & React Enthusiast</h3>
+### **Yonas Getaw**
+[GitHub.com/YonasGetaw](https://github.com/YonasGetaw)
+
+<div align="left">
+  
+<img src="https://img.shields.io/badge/Followers-120-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Repositories-34-pink?style=for-the-badge&logo=bookstack" />
+<img src="https://img.shields.io/badge/Stars-45-yellow?style=for-the-badge&logo=star" />
+<img src="https://img.shields.io/badge/Commits-780-green?style=for-the-badge&logo=git" />
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yonasgetaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
