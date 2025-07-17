@@ -43,13 +43,13 @@ I’m a professional in **JavaScript** and **React**.
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:yonasgetaw5444@gmail" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="100" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://facebook.com/yonasgetaw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="100" />
   </a>
-  <a href="https://t.me/yourchannel" target="_blank">
+  <a href="https://t.me/@yonaas" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="100" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -65,11 +65,11 @@ I’m a professional in **JavaScript** and **React**.
   <a href="https://x.com/yourhandle" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter/X" width="100" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/YonasGetaw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="100" />
   </a>
   <br>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
+  <a href="https://youtube.com/@study-education-tube" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="100" />
   </a>
 </p>
