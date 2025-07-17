@@ -1,7 +1,12 @@
 <img width="1300" height="300" alt="image" src="https://github.com/user-attachments/assets/c0368a75-6b25-421c-9650-badfd1bcdc0c" />
 
 
-### 👋 Hi, I’m Yonas
+# Hi, I am Yonas Getaw
+
+Currently pursuing **Software Engineering** at **Debre Berhan University**.  
+I’m a professional in **JavaScript** and **React**.
+
+
 ### 🧑‍💻 About Me
 
 - 🎓 2nd-year **Software Engineering student** at **Debre Berhan University**, Ethiopia  
