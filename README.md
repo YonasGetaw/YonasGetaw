@@ -40,18 +40,6 @@
 </div>
 
 ---
-<!-- Logo with Link -->
-<p align="center">
-  <a href="https://yourcompany.com" target="_blank">
-    <img src="https://yourcompany.com/logo.png" alt="Your Company Logo" width="200"/>
-  </a>
-</p>
-
-<h1 align="center">📬 Contact Us</h1>
-
-> This project is maintained with ❤️ by the team at [Your Company Name](https://yourcompany.com).  
-> If you have any questions, feedback, or would like to work with us — we’d love to hear from you.
-
 ## 📬 Contact Me
 
 <p align="center">
