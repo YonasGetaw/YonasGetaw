@@ -1,19 +1,18 @@
-<div>
-<p align="left">
-  <img src="https://github.com/YonasGetaw.png" width="120" style="border-radius: 50%;" alt="Yonas Getaw Avatar"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YonasGetaw/YonasGetaw/main/assets/profile-card.png" width="250" alt="Yonas Getaw Profile Card"/>
+</p>
 
 <h2 align="center">Yonas Getaw</h2>
+
 <p align="center">
   <a href="https://github.com/YonasGetaw">GitHub.com/YonasGetaw</a>
 </p>
-<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Followers-120-blue?style=for-the-badge&logo=github" alt="Followers Badge"/>
-  <img src="https://img.shields.io/badge/Repositories-34-pink?style=for-the-badge&logo=bookstack" alt="Repo Badge"/>
-  <img src="https://img.shields.io/badge/Stars-45-yellow?style=for-the-badge&logo=star" alt="Stars Badge"/>
-  <img src="https://img.shields.io/badge/Commits-780-brightgreen?style=commits"
-    <p>
-</div>
+  <img src="https://img.shields.io/badge/Followers-10-blue?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Repositories-15-pink?style=for-the-badge&logo=bookstack" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Stars-14-yellow?style=for-the-badge&logo=star" alt="Stars"/>
+</p>
 
 
 ### 🧑‍💻 About Me
