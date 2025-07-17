@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Followers-120-blue?style=for-the-badge&logo=github" alt="Followers Badge"/>
   <img src="https://img.shields.io/badge/Repositories-34-pink?style=for-the-badge&logo=bookstack" alt="Repo Badge"/>
   <img src="https://img.shields.io/badge/Stars-45-yellow?style=for-the-badge&logo=star" alt="Stars Badge"/>
-  <img src="https://img.shields.io/badge/Commits-780-brightgreen?style="
+  <img src="https://img.shields.io/badge/Commits-780-brightgreen?style=commits"
     <p>
 </div>
 
