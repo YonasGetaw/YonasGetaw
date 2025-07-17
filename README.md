@@ -1,12 +1,28 @@
-<!-- GitHub README for Yonas Getaw -->
-### **Yonas Getaw**
-[GitHub.com/YonasGetaw](https://github.com/YonasGetaw)
-<div align="left">
-  
-<img src="https://img.shields.io/badge/Followers-120-blue?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Repositories-34-pink?style=for-the-badge&logo=bookstack" />
-<img src="https://img.shields.io/badge/Stars-45-yellow?style=for-the-badge&logo=star" />
-<img src="https://img.shields.io/badge/Commits-780-green?style=for-the-badge&logo=git" />
+<div align="center">
+  <div style="
+    background: #0D1117;
+    border-radius: 12px;
+    padding: 25px;
+    width: 350px;
+    font-family: 'Courier New', monospace;
+    color: #E6EDF3;
+    text-align: left;
+    border: 1px solid #30363D;
+  ">
+    <div style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">
+      Yonas Getaw
+    </div>
+    <div style="font-size: 14px; color: #7D8590; margin-bottom: 25px;">
+      GitHub.com/YonasGetaw
+    </div>
+    <div style="font-size: 28px; font-weight: bold; color: #2F81F7; line-height: 1.4;">
+      72<br>
+      36<br>
+      48<br>
+      <span style="font-size: 32px;">620</span>
+    </div>
+  </div>
+</div>
 
 </div>
 
