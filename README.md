@@ -1,17 +1,5 @@
 <img width="1300" height="300" alt="image" src="https://github.com/user-attachments/assets/c0368a75-6b25-421c-9650-badfd1bcdc0c" />
-
-
-<h2 align="center">Yonas Getaw</h2>
-
-<p align="center">
-  <a href="https://github.com/YonasGetaw">GitHub.com/YonasGetaw</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Followers-10-blue?style=for-the-badge&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Repositories-15-pink?style=for-the-badge&logo=bookstack" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/Stars-14-yellow?style=for-the-badge&logo=star" alt="Stars"/>
-</p>
+<h1>hi I am Yonas Getaw<h1>
 
 
 ### 🧑‍💻 About Me
