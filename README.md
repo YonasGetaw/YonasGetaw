@@ -41,17 +41,76 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🌟 Ethiopis – Multilingual Learning Platform for Ethiopian Kids  
+> _“Building a smarter generation through local language and interactive design.”_
 
-| 🔧 Project | 📝 Description | 🧰 Stack |
-|-----------|----------------|----------|
-| 🎨 **Ethiopis** | Kids learning site with Amharic/English content, animations, and voice | `React`, `CSS`, `JS`, `Voiceover` |
-| 🛺 **Bajaj Transport System** | Digitizes Bajaj vehicle booking & tracking across 97 routes | `Node.js`, `Express`, `HTML/CSS`, `PostgreSQL` |
-| 🧾 **Java Form UI** | Student registration with validation, Java Swing UI, no DB | `Java`, `Swing`, `Encapsulation` |
-| 📚 **Management Systems** | Library and employee systems using OOP | `Java Console Apps` |
-| ⚡ **Smart Sorter** | Bucket Bubble Sort with memory-enhanced logic | `Java`, `Python`, `C++` |
+![Ethiopis Banner](https://example.com/banner.png) <!-- Replace with actual image or remove -->
 
 ---
+
+### 🔧 Tech Stack  
+`HTML` • `CSS` • `JavaScript` • `Java (OOP)` • `Firebase` • `Adobe Animate` • `AudioFX` • `Amharic Voiceover`
+
+---
+
+### 🧠 Overview  
+**Ethiopis** is a culturally-rooted, multilingual e-learning platform designed for Ethiopian children aged **4–12**. It delivers animated lessons, gamified activities, and playful voice-guided learning in **Amharic** and **English**, with a future-ready roadmap for other local languages.
+
+The goal? To make learning fun, inclusive, and accessible for **every child**, no matter their background or device.
+
+---
+
+### 🎯 Key Features  
+- 🎨 Custom-animated content using Adobe Animate  
+- 🗣️ Native Amharic voiceovers for improved language comprehension  
+- 📚 Curriculum-based content by age:  
+  - **4–6**: Alphabets, numbers, animals, shapes  
+  - **7–9**: Sentences, storytelling, basic math  
+  - **10–12**: Science facts, cultural lessons, creative challenges  
+- 🧩 Interactive quizzes, games & drawing tools  
+- 🌐 Dual-language support (Amharic & English)  
+- 🔐 Firebase-powered progress tracking
+
+---
+
+### 🌍 Impact  
+> _“Ethiopis aims to democratize early education in Ethiopia through technology, storytelling, and mother-tongue-first learning.”_
+
+- 📱 Designed for low-bandwidth environments  
+- 🏫 Ideal for both at-home and classroom use  
+- 🤝 Built in consultation with teachers and local communities  
+- ✨ Blends tradition, culture, and modern pedagogy
+
+---
+
+### 📈 Roadmap  
+- [x] MVP Web Version  
+- [ ] Flutter-based Mobile App  
+- [ ] LMS Integration for Teachers  
+- [ ] Offline Mode & SD Card Distribution  
+- [ ] Gamified Learning Pathways  
+
+---
+
+### 🖼️ Screenshots  
+> _(Add images or GIFs below once assets are ready)_  
+![Screenshot](https://example.com/ethiopis1.png)  
+![Screenshot](https://example.com/ethiopis2.gif)
+
+---
+
+### 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/YonasGetaw/Ethiopis.git
+
+# Navigate to the project directory
+cd Ethiopis
+
+# Open in your browser
+open index.html
+
 
 ### 📊 GitHub Stats
 
