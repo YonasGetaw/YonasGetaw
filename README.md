@@ -43,9 +43,9 @@ I’m a professional in **JavaScript** and **React**.
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:yonasgetaw5444@gmail" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="100" />
-  </a>
+  <a href="mailto:yonasgetaw5444@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="100" />
+</a>
   <a href="https://facebook.com/yonasgetaw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="100" />
   </a>
