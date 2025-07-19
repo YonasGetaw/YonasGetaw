@@ -43,33 +43,33 @@ I’m a professional in **JavaScript** and **React**.
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:yonasgetaw5444@gmail" target="_blank">
+  <a href="mailto:yonasgetaw5444@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="100" />
   </a>
   <a href="https://facebook.com/yonasgetaw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="100" />
   </a>
-  <a href="https://t.me/@yonaas" target="_blank">
+  <a href="https://t.me/@YONAA54" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="100" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yonas-getaw-a66710374/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="100" />
   </a>
   <br>
   <a href="https://instagram.com/yourprofile" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="100" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01fd2a8128c014dde2" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Upwork" width="100" />
   </a>
-  <a href="https://x.com/yourhandle" target="_blank">
+  <a href="https://x.com/yonasgetaw5444" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter/X" width="100" />
   </a>
   <a href="https://github.com/YonasGetaw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="GitHub" width="100" />
   </a>
   <br>
-  <a href="https://youtube.com/@study-education-tube" target="_blank">
+  <a href="https://youtube.com/@EthioAcademy-b7n" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="100" />
   </a>
 </p>
