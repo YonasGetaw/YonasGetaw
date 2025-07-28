@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Yonas Getaw](./profile-card.png)
 
 
 
