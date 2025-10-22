@@ -1,4 +1,5 @@
-![Full Stack Developer - Yonas Getaw](https://i.postimg.cc/RW592NHb/7c95462e-8516-4a55-8a5d-f3aa992a1b6d.png)
+<img src="https://i.postimg.cc/RW592NHb/7c95462e-8516-4a55-8a5d-f3aa992a1b6d.png" alt="Full Stack Developer - Yonas Getaw" style="width: 100%; max-width: 100%; height: auto;" />
+
 
 # 👋 Hi, I am <span style="color:#1E90FF;">Yonas Getaw</span>
 **Full-Stack Developer | Software Engineer | Real-world Systems Builder**  
