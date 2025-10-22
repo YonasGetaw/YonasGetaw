@@ -84,19 +84,21 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect with Me - Let's Build Together! 🤝
+
+I'm always open to discussing new projects, collaboration opportunities, or full-stack engineering roles. Feel free to connect via any platform below!
 
 <p align="center">
-    <a href="mailto:yonasgetaw5444@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/YonasGetaw" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://t.me/@YONAA54" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
+    <a href="https://www.linkedin.com/in/yonas-getaw-a66710374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-Yonas%20Getaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="https://github.com/YonasGetaw" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/GitHub-YonasGetaw-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:yonasgetaw5444@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Email-yonasgetaw5444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
+    </a>
+    <a href="https://t.me/@YONAA54" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Telegram-@YONAA54-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Handle" />
+    </a>
 </p>
