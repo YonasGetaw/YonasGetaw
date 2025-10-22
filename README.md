@@ -31,9 +31,8 @@ I’m a professional in **JavaScript** and **React**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="100"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/go-original.svg" title="Golang" width="100"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" width="100"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuelidate/vuelidate-original.svg" title="Vuelidate" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="100"/> 
 </div>
