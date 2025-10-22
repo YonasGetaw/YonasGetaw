@@ -1,4 +1,5 @@
-<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/44d418f5-36bc-4d49-a1a7-87d68f8b2668" />
+<img width="1120" height="354" alt="image" src="https://github.com/user-attachments/assets/8468629d-8685-462a-959b-3f6db62dee7f" />
+
 
 
 # 👋 Hi, I am <span style="color:#1E90FF;">Yonas Getaw</span>
