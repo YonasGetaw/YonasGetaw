@@ -42,34 +42,59 @@
 
 ---
 
-## 🛠️ Core Skills & Expertise
+## 🚀 Technical Expertise & Core Skills
 
-This structure clearly delineates your full-stack capabilities and highlights your most valuable, production-ready tools.
+Dive into my full-stack capabilities, where robust backend architecture meets intuitive frontend design.
 
-### 🌟 Backend & System Architecture (Golang Focus)
+### **Backend & Systems Development** <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="25" alt="Golang Icon"/>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **High-Performance Language** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" width="30"/> **Golang**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="30"/> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="30"/> Java |
-| **API & Runtime** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="30"/> Node.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="30"/> Express.js |
-| **Databases (SQL/NoSQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="30"/> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="30"/> MySQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="30"/> MongoDB |
-| **BaaS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" width="30"/> Supabase |
+Building high-performance, scalable APIs and reliable system infrastructure.
 
-### 🎨 Frontend & User Experience (Nuxt 3 Focus)
+<p align="left">
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" title="Golang"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" title="Python"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" title="Node.js"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" title="Express.js"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" title="Java"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" title="C++"/>
+</p>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frameworks (SSR/CSR)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt 3" width="30"/> **Nuxt 3**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="30"/> Vue.js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="30"/> React, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="30"/> Next.js |
-| **Core Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="30"/> TypeScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="30"/> JavaScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="30"/> HTML5, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="30"/> CSS3 |
-| **Design & Prototyping** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="30"/> Figma |
+### **Database Management & ORM** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" alt="PostgreSQL Icon"/>
 
-### ⚙️ DevOps & Version Control
+Designing and managing efficient data storage solutions.
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</div>
+<p align="left">
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" title="PostgreSQL"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" title="MySQL"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" title="MongoDB"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="45" title="Supabase"/>
+</p>
+
+### **Frontend & UI/UX Engineering** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="25" alt="Nuxt.js Icon"/>
+
+Crafting dynamic, responsive, and intuitive user interfaces.
+
+<p align="left">
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="45" title="Nuxt 3"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" title="Vue.js"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" title="React"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" title="Next.js"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" title="TypeScript"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" title="JavaScript"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" title="HTML5"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" title="CSS3"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" title="Figma"/>
+</p>
+
+### **Development Tools & DevOps** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" alt="Docker Icon"/>
+
+Streamlining workflows from development to deployment.
+
+<p align="left">
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" title="Docker"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" title="Git"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" title="GitHub"/>
+</p>
 
 ---
 
