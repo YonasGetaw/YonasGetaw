@@ -1,7 +1,7 @@
 # 👋 Hi, I am <span style="color:#1E90FF;">Yonas Getaw</span>
 **Full-Stack Developer | Software Engineer | Real-world Systems Builder**  
 
-🚀 Building projects in **JavaScript, React, Vue, Nuxt 3, Node.js, TypeScript, Golang, and more**  
+🚀 Building projects in **Nuxt 3,Golang **  
 
 ---
 
