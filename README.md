@@ -1,4 +1,5 @@
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2c782d8b-8f08-4e93-b6f7-cbfa20bccb04" />
+<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/44d418f5-36bc-4d49-a1a7-87d68f8b2668" />
+
 
 # 👋 Hi, I am <span style="color:#1E90FF;">Yonas Getaw</span>
 **Full-Stack Developer | Software Engineer | Real-world Systems Builder**  
