@@ -15,7 +15,7 @@ I’m a professional in **JavaScript** and **React**.
 ---
 
 ### ⚙️ Skills & Tools
-<div align="center">
+<div >
 <!-- Programming Languages & Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60"/> 
