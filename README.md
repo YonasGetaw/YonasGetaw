@@ -7,17 +7,38 @@
 
 ---
 
-## 🚀 Key Projects & Portfolio
+## 💻 GitHub Activity & Performance
 
-| Project Title | Description & Key Features | Tech Stack Highlights |
-| :--- | :--- | :--- |
-| **Transport Booking System** | A full-featured platform for seamless booking and management of transport schedules, including real-time availability and ticketing integration. **(Focus: Scalable data modeling and secure transaction flow)** | Nuxt 3, Golang, PostgreSQL |
-| **Event Management System** | Comprehensive system for organizing and executing events. Features include dynamic schedule builders, attendee registration, and real-time event updates. **(Focus: Complex state management and user authentication)** | Vue.js, Node.js/Express, MongoDB |
-| **Kids Learning Platform** | Multilingual, interactive educational platform designed to enhance children's learning. Includes gamification elements and progress tracking. **(Focus: Intuitive UI/UX and localization)** | React, JavaScript, Supabase |
-| **Ethiopian Travel Explorer** | A travel-planning application to explore Ethiopian destinations. Features include custom itinerary building and point-of-interest mapping. **(Focus: API integration and location services)** | Next.js, TypeScript, PostgreSQL |
-| **WinnerGO Software Company** | Professional company portfolio website showcasing services, project successes, and client solutions for a fictional software company. **(Focus: Corporate branding and modern web design)** | HTML5, CSS3, JavaScript |
+### 🚀 Leveling up with **Golang**
+*Building full-stack projects like it's a boss battle.*
 
-*🔗 **[View Portfolio](https://your-main-portfolio-site.com)*** (Replace with a consolidated link or keep existing project links if preferred.)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YonasGetaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="YonasGetaw GitHub Streak" />
+</p>
+
+---
+
+### ⚙️ Inventory / Tech Stack (In Focus)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt 3 Badge"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+</p>
+
+---
+
+### 📊 Stats Board
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YonasGetaw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="YonasGetaw's GitHub Stats" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonasGetaw&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="YonasGetaw's Most Used Languages" />
+</p>
 
 ---
 
@@ -26,8 +47,8 @@
 ### Languages & Frameworks
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60"/> 
@@ -72,7 +93,7 @@
     <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" style="text-decoration:none; margin: 0 10px;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/your-github-username" target="_blank" style="text-decoration:none; margin: 0 10px;">
+    <a href="https://github.com/YonasGetaw" target="_blank" style="text-decoration:none; margin: 0 10px;">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://t.me/@YONAA54" target="_blank" style="text-decoration:none; margin: 0 10px;">
