@@ -46,59 +46,56 @@
 
 ### 📚 Languages & Foundations
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" **width="60"**/>
 </div>
 
 ### 🎨 Frontend & UI Frameworks
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt 3" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt 3" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **width="60"**/>
 </div>
 
 ### ⚙️ Backend & Data Stores
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" **width="60"**/>
 </div>
 
 ### ☁️ Tools & DevOps
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **width="60"**/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" **width="60"**/>
 </div>
 
 ---
 
 ## 📬 Connect with Me - Let's Build Together! 🤝
-
-I'm always open to discussing new projects, collaboration opportunities, or full-stack engineering roles. Feel free to connect via any platform below!
-
 <p align="center">
-    <a href="https://www.linkedin.com/in/yonas-getaw-a66710374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-Yonas%20Getaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <a href="https://github.com/YonasGetaw" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/GitHub-YonasGetaw-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-    </a>
-    <a href="mailto:yonasgetaw5444@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Email-yonasgetaw5444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
-    </a>
-    <a href="https://t.me/@YONAA54" target="_blank" style="text-decoration:none; margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Telegram-@YONAA54-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Handle" />
-    </a>
+    <a href="https://www.linkedin.com/in/yonas-getaw-a66710374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-Yonas%20Getaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="https://github.com/YonasGetaw" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/GitHub-YonasGetaw-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:yonasgetaw5444@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Email-yonasgetaw5444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
+    </a>
+    <a href="https://t.me/@YONAA54" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Telegram-@YONAA54-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Handle" />
+    </a>
 </p>
