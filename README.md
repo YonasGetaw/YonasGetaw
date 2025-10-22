@@ -1,16 +1,21 @@
 <img width="1024" height="250" alt="image" src="https://github.com/user-attachments/assets/5d8fa9be-7de1-4ce1-a363-66efc495848d" />
 
-# Hi, I am Yonas Getaw  
+# Hi, I am <span style="color:#1E90FF;">Yonas Getaw</span>  
 Currently pursuing **Software Engineering** at **Debre Berhan University**.  
 
-I’m a professional in **JavaScript** and **React**.  
+I’m a professional in **JavaScript** and **React**, and I build almost every type of project from real-world systems to learning platforms.  
 
 ### 🧑‍💻 About Me
 - 🎓 3rd-year **Software Engineering student** at **Debre Berhan University**, Ethiopia  
 - 🔬 Special interest in **real-world systems** for **Education**, **Transportation**, and **Youth Learning**  
-- 🌐 Actively building:  
-  - 🧒 **Ethiopis** – A multilingual **kids’ learning platform**  
-  - 🛺 **Bajaj Transport System** – Managing 4000+ Bajaj vehicles for Debre Birhan City  
+- 🌐 Actively building and maintaining projects:  
+
+### 🚀 Projects
+- [Transport Booking System](https://transportbookingsytsem.netlify.app/)  
+- [Event Management System](https://grand-crisp-bbbdfa.netlify.app/)  
+- [Kids Learning Platform](https://ethiopiskidslarningplatform.netlify.app/)  
+- [Ethiopian Travel Explorer](https://gentle-dragon-d5845e.netlify.app/)  
+- [WinnerGO Software Company](https://superb-starlight-ddd132.netlify.app/)  
 
 ---
 
@@ -42,9 +47,10 @@ I’m a professional in **JavaScript** and **React**.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="100"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="100"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="100"/> 
 <br>
 <!-- Last group -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="100"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="100"/> 
 </div>
 
