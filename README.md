@@ -1,6 +1,6 @@
 <img width="1024" height="250" alt="image" src="https://github.com/user-attachments/assets/5d8fa9be-7de1-4ce1-a363-66efc495848d" />
 
-# Hi, I am <span style="color:#1E90FF;">Yonas Getaw</span>  
+# Hi, I am Yonas 
 Currently pursuing **Software Engineering** at **Debre Berhan University**.  
 
 I’m a professional in **JavaScript** and **React**, and I build almost every type of project from real-world systems to learning platforms.  
