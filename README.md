@@ -11,13 +11,22 @@ I’m a professional in **JavaScript** and **React**, and I build almost every t
 - 🌐 Actively building and maintaining projects:  
 
 ### 🚀 Projects
-- [Transport Booking System](https://transportbookingsytsem.netlify.app/)  
-- [Event Management System](https://grand-crisp-bbbdfa.netlify.app/)  
-- [Kids Learning Platform](https://ethiopiskidslarningplatform.netlify.app/)  
-- [Ethiopian Travel Explorer](https://gentle-dragon-d5845e.netlify.app/)  
-- [WinnerGO Software Company](https://superb-starlight-ddd132.netlify.app/)  
 
----
+- **Transport Booking System** – A full-featured platform for booking and managing transport schedules.  
+  🔗 [View Project](https://transportbookingsytsem.netlify.app/)
+
+- **Event Management System** – Organize and manage events efficiently with schedules and attendees.  
+  🔗 [View Project](https://grand-crisp-bbbdfa.netlify.app/)
+
+- **Kids Learning Platform** – Multilingual interactive learning platform for children.  
+  🔗 [View Project](https://ethiopiskidslarningplatform.netlify.app/)
+
+- **Ethiopian Travel Explorer** – Explore Ethiopian destinations and plan travel adventures.  
+  🔗 [View Project](https://gentle-dragon-d5845e.netlify.app/)
+
+- **WinnerGO Software Company** – Company portfolio showcasing services, projects, and client solutions.  
+  🔗 [View Project](https://superb-starlight-ddd132.netlify.app/)
+
 
 ### ⚙️ Skills & Tools
 <div align="center">
