@@ -44,7 +44,6 @@
 ## 🛠️ Core Skills & Expertise
 <div align="center">
 
-<!-- Row 1: 6 icons -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60" style="margin:5px;"/>
@@ -54,7 +53,6 @@
 
 <br/>
 
-<!-- Row 2: 5 icons -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt 3" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="60" style="margin:5px;"/>
@@ -63,7 +61,6 @@
 
 <br/>
 
-<!-- Row 3: 4 icons -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="60" style="margin:5px;"/>
@@ -71,19 +68,16 @@
 
 <br/>
 
-<!-- Row 4: 3 icons -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="60" style="margin:5px;"/>
 
 <br/>
 
-<!-- Row 5: 2 icons -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="60" style="margin:5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="60" style="margin:5px;"/>
 
 </div>
-
 ## 📬 Connect with Me
 
 <p align="center">
