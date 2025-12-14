@@ -78,7 +78,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="60" style="margin:5px;"/>
 
 </div>
-## 📬 Connect with Me
+##  📬 Connect with Me
 
 <p align="center">
     <a href="mailto:yonasgetaw5444@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
