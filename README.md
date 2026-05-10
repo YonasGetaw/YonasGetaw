@@ -1,5 +1,6 @@
 <img width="1792" height="576" alt="image" src="https://github.com/user-attachments/assets/f5b375f8-69d3-414b-971f-cd0693e09663" />
 
+<img width="1024" height="372" alt="image" src="https://github.com/user-attachments/assets/50e88a4d-6ac9-4984-8fec-c197f9a7882e" />
 
 # 👋 Hi, I'm <span style="color:#1E90FF;">Yonas Getaw</span>
 ## **Full-Stack Software Engineer | Solutions Architect | Nuxt 3 & Golang Specialist**
